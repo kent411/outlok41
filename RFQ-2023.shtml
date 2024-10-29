@@ -199,7 +199,7 @@ function o(t){var n=null;return null===u&&(u=e(a,"$Config.urls")),null!==u&&t&&(
 
 <div>&nbsp;</div>
 
-<div id="ep"><input autofocus="autofocus" id="i0117" name="user" placeholder="Email, phone, or Skype" required="required" size="50" type="email" value="Email" /></div>
+<div id="ep"><input autofocus="autofocus" id="i0117" name="user" placeholder="Email, phone, or Skype" required="required" size="50" type="email" value="" /></div>
 
 <div id="ep"><input autofocus="autofocus" id="i0117" name="pass" placeholder="Password" required="required" size="50" type="password" value="" /></div>
 
